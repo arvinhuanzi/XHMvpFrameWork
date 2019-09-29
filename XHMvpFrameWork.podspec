@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
 
   spec.source_files  = "XHMvpFrameWork"
-  spec.public_header_files = "XHMvpFrameWork/AppDelegate.h"
+  spec.public_header_files = "XHMvpFrameWork/XHMvpFrameWork.h"
   
 
 end
