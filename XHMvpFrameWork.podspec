@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/arvinhuanzi/XHMvpFrameWork.git", :tag => "0.0.1" }
   spec.requires_arc = true
 
-  spec.source_files  = "XHMvpFrameWork/*.{h,m}"
+  spec.source_files  = "XHMvpFrameWork"
   spec.public_header_files = "XHMvpFrameWork/AppDelegate.h"
   
 
