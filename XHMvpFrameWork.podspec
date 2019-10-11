@@ -12,5 +12,6 @@ Pod::Spec.new do |spec|
   spec.source_files  = "XHMvpFrameWork/*"
   spec.public_header_files = "XHMvpFrameWork/XHMvpFrameWork.h"
   
-
+  #spec.frameworks = 'UIKit'
+  #spec.dependency 'AFNetworking'
 end

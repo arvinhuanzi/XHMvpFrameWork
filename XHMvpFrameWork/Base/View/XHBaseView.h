@@ -1,8 +1,8 @@
 //
-//  TestViewController.h
-//  XHMvpFrameWorkDemo
+//  XHBaseView.h
+//  XHDesign
 //
-//  Created by cnest on 2019/9/29.
+//  Created by cnest on 2019/9/25.
 //  Copyright © 2019 huan. All rights reserved.
 //
 
@@ -10,7 +10,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface TestViewController : UIViewController
+@interface XHBaseView : UIView
+
+
 
 @end
 
